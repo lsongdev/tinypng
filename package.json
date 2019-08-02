@@ -1,0 +1,28 @@
+{
+  "name": "tinypng2",
+  "version": "0.0.2",
+  "description": "Tinypng API in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tinypng": "./bin/tinypng.js"
+  },
+  "keywords": [
+    "tinypng"
+  ],
+  "author": "Lsong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/tinypng.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/tinypng/issues"
+  },
+  "homepage": "https://github.com/song940/tinypng#readme",
+  "directories": {
+    "example": "example"
+  }
+}
