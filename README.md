@@ -1,6 +1,6 @@
-## tinypng [![tinypng](https://img.shields.io/npm/v/tinypng.svg)](https://npmjs.org/tinypng)
+## tinypng [![tinypng2](https://img.shields.io/npm/v/tinypng2.svg)](https://npmjs.org/tinypng2)
 
-> tinypng in node.js
+> 🐼 Tinypng API in Node.js
 
 ### Installation
 
